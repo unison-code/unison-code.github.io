@@ -1,0 +1,6 @@
+<ul class="nav nav-list">
+    <li {% if page.url == "/" %} class="active" {% endif %}><a href="{{ site.baseurl }}/">Home</a></li>
+    {% for post in site.posts %}
+            <li {% if page.url == post.url %} class="active" {% endif %}><a href="{{ post.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
