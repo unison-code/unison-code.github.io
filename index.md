@@ -24,4 +24,4 @@ allowfullscreen></iframe>
 </div>
 </center></p>
 
-To learn more about Unison, check out the <a href="{{ post.baseurl }}demo.html">Demo</a> section.
+To learn more about Unison, check out the <a href="{{ post.baseurl }}videos.html">Videos</a> section.
