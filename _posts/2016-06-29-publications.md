@@ -23,6 +23,10 @@ title: "Publications"
 
 #### Presentations
 
+- [Register Allocation and Instruction Scheduling in Unison]({{ site.rcas-root }}presentations/llvm2017.pdf) [[YouTube]](https://www.youtube.com/watch?v=kx64V74Mba0).<br />
+  Roberto Castañeda Lozano.
+  EuroLLVM, Saarbrücken, Germany, March 2017.
+
 - [Modeling and Solving Code Generation for Real]({{ site.cschulte-root }}talks/Code%20Generation%20KTH%202016.pdf).<br />
   Christian Schulte.<br />
   TCS Seminar Series, KTH Royal Institute of Technology, Stockholm, Sweden, April 2016.<br />
