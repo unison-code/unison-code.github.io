@@ -5,6 +5,10 @@ title: "Publications"
 
 #### Papers
 
+- [Combinatorial Register Allocation and Instruction Scheduling](https://arxiv.org/abs/1804.02452).<br />
+  Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.
+  Technical report, 2018.
+
 - [Register Allocation and Instruction Scheduling in Unison](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-183393).<br />
   Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.
   CC, 2016.
@@ -22,6 +26,10 @@ title: "Publications"
   CP, 2012.
 
 #### Presentations
+
+- Unison: Optimization Technology for Optimizing Compilers.<br />
+  Christian Schulte, Roberto Castañeda Lozano.
+  Ericsson's Program Analysis Workshop, Kista, Sweden, April 2018.
 
 - [Register Allocation and Instruction Scheduling in Unison]({{ site.rcas-root }}presentations/llvm2017.pdf) [[YouTube]](https://www.youtube.com/watch?v=kx64V74Mba0).<br />
   Roberto Castañeda Lozano.
@@ -73,6 +81,10 @@ title: "Publications"
   SweConsNet, &Ouml;rebro, Sweden, May 2012.
 
 #### Dissertations
+
+- [Evaluating Unison's Speedup Estimation](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-210647).<br />
+  Martin Persson.
+  KTH Royal Institute of Technology, Sweden, Master thesis, 2017.
 
 - [Evaluation and Implementation of Dominance Breaking Presolving Techniques in the Unison Compiler Back-End](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-175835).<br />
   Mikael Almgren.
