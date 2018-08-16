@@ -82,6 +82,10 @@ title: "Publications"
 
 #### Dissertations
 
+- [Constraint-Based Register Allocation and Instruction Scheduling](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-232192).<br />
+  Roberto Castañeda Lozano.
+  KTH Royal Institute of Technology, Sweden, Doctoral thesis, 2018.
+
 - [Evaluating Unison's Speedup Estimation](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-210647).<br />
   Martin Persson.
   KTH Royal Institute of Technology, Sweden, Master thesis, 2017.
