@@ -24,4 +24,5 @@ allowfullscreen></iframe>
 </div>
 </center></p>
 
-To learn more about Unison, check out the <a href="{{ post.baseurl }}videos.html">Videos</a> section.
+To learn more about Unison, check out the <a href="{{ post.baseurl }}videos.html">Videos</a> section or
+read [how Ericsson uses the tool](https://www.ericsson.com/research-blog/outperforming-state-art-compilers-unison/).
