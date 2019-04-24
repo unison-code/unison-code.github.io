@@ -7,7 +7,7 @@ title: "Publications"
 
 - [Combinatorial Register Allocation and Instruction Scheduling](https://arxiv.org/abs/1804.02452).<br />
   Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.
-  Technical report, 2018.
+  Accepted for publication at TOPLAS, 2019.
 
 - [Register Allocation and Instruction Scheduling in Unison](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-183393).<br />
   Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.
